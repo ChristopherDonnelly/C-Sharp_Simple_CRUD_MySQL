@@ -1,0 +1,11 @@
+C:\Users\Trinaryguru\Desktop\DojoAssignments\C_Sharp\Simple_CRUD_MySQL\bin\Debug\netcoreapp2.0\Simple_CRUD_MySQL.deps.json
+C:\Users\Trinaryguru\Desktop\DojoAssignments\C_Sharp\Simple_CRUD_MySQL\bin\Debug\netcoreapp2.0\Simple_CRUD_MySQL.runtimeconfig.json
+C:\Users\Trinaryguru\Desktop\DojoAssignments\C_Sharp\Simple_CRUD_MySQL\bin\Debug\netcoreapp2.0\Simple_CRUD_MySQL.runtimeconfig.dev.json
+C:\Users\Trinaryguru\Desktop\DojoAssignments\C_Sharp\Simple_CRUD_MySQL\bin\Debug\netcoreapp2.0\Simple_CRUD_MySQL.dll
+C:\Users\Trinaryguru\Desktop\DojoAssignments\C_Sharp\Simple_CRUD_MySQL\bin\Debug\netcoreapp2.0\Simple_CRUD_MySQL.pdb
+C:\Users\Trinaryguru\Desktop\DojoAssignments\C_Sharp\Simple_CRUD_MySQL\obj\Debug\netcoreapp2.0\Simple_CRUD_MySQL.csprojResolveAssemblyReference.cache
+C:\Users\Trinaryguru\Desktop\DojoAssignments\C_Sharp\Simple_CRUD_MySQL\obj\Debug\netcoreapp2.0\Simple_CRUD_MySQL.csproj.CoreCompileInputs.cache
+C:\Users\Trinaryguru\Desktop\DojoAssignments\C_Sharp\Simple_CRUD_MySQL\obj\Debug\netcoreapp2.0\Simple_CRUD_MySQL.AssemblyInfoInputs.cache
+C:\Users\Trinaryguru\Desktop\DojoAssignments\C_Sharp\Simple_CRUD_MySQL\obj\Debug\netcoreapp2.0\Simple_CRUD_MySQL.AssemblyInfo.cs
+C:\Users\Trinaryguru\Desktop\DojoAssignments\C_Sharp\Simple_CRUD_MySQL\obj\Debug\netcoreapp2.0\Simple_CRUD_MySQL.dll
+C:\Users\Trinaryguru\Desktop\DojoAssignments\C_Sharp\Simple_CRUD_MySQL\obj\Debug\netcoreapp2.0\Simple_CRUD_MySQL.pdb
